@@ -6,11 +6,16 @@
 Welcome to project data analysis code doc
 ===================================
 
-sigc+ is a python package to build gene signature score for gene expression matrix
+Code for analysis Duan yundan's tomato omincs data (RNA, metabolic, sugar) of grafting condition
 
 .. toctree::
    :caption: Contents:
    :maxdepth: 4
 
-   analysiscode
+   dataQC
+   DE_overlap
+   stage_specific
+   DE_in_2_near_point
+   heatmap12
+   network
 
