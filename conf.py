@@ -21,7 +21,7 @@
 
 project = ''
 copyright = 'Zan Yuan'
-author = 'Zan Yuan, yundan Duan'
+author = 'Zan Yuan, Yundan Duan'
 
 # The short X.Y version
 version = '0.1.1'
@@ -142,7 +142,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'tomato_HAG_omics.tex', 'tomato_HAG_omics Documentation',
-     'Zzn Yuan', 'manual'),
+     'Zan Yuan, Yundan Duan', 'manual'),
 ]
 
 
