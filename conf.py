@@ -89,6 +89,8 @@ html_theme = 'sphinx_book_theme'
 #
 # html_theme_options = {}
 html_logo = 'images/project_logo.png'
+html_title = "tomato graft omics"
+
 html_theme_options = {
     'logo_only': True,
     'display_version': False,
