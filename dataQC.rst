@@ -1,7 +1,7 @@
 .. _codes:
 
 **********
-Analysis codes
+Data QC
 **********
 
 QC and re-analysis

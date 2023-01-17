@@ -1,7 +1,7 @@
 .. _codes:
 
 **********
-Analysis codes
+Network
 **********
 
 High correlation sugar gene and TF corr network

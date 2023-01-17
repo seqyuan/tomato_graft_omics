@@ -1,7 +1,7 @@
 .. _codes:
 
 **********
-Analysis codes
+DE overlap
 **********
 
 CC/C DD/D DE overlap analysis

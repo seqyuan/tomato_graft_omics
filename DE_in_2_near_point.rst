@@ -1,7 +1,7 @@
 .. _codes:
 
 **********
-Analysis codes
+Near 2 point DE
 **********
 
 CC DD DE genes which in two near time point HAG

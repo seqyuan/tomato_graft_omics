@@ -1,7 +1,7 @@
 .. _codes:
 
 **********
-Analysis codes
+heatmap of sugar corr gene 
 **********
 
 sugar correlation genes expression heatmap
