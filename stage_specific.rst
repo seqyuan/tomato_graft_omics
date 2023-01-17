@@ -1,7 +1,7 @@
 .. _codes:
 
 **********
-Analysis codes
+Stage specific DE
 **********
 
 stage specific DE gene analysis
