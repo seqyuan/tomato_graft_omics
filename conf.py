@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = ''
+project = "TomatoGraft"
 copyright = 'Zan Yuan'
 author = 'Zan Yuan, Yundan Duan'
 
@@ -116,7 +116,7 @@ html_static_path = ['_static']
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'tomatoGraft'
+htmlhelp_basename = 'TomatoGraft'
 
 
 # -- Options for LaTeX output ------------------------------------------------
