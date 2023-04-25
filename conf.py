@@ -94,8 +94,6 @@ html_title = "tomato graft omics"
 
 html_theme_options = {
     'logo_only': True,
-    'display_version': False,
-    "use_repository_button": True,
 }
 
 
