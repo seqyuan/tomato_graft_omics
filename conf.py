@@ -45,7 +45,7 @@ extensions = [
     'sphinx.ext.githubpages',
     'nbsphinx',
     'nbsphinx_link',
-    "IPython.sphinxext.ipython_console_highlighting"
+    "IPython.sphinxext.ipython_console_highlighting",
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -95,6 +95,7 @@ html_title = "tomato graft omics"
 html_theme_options = {
     'logo_only': True,
     'display_version': False,
+    "use_repository_button": True,
 }
 
 
