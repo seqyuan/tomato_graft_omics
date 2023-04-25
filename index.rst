@@ -15,7 +15,7 @@ Code for analysis Duan yundan's tomato omincs data (RNA, metabolic, sugar) of gr
    dataQC
    DE_overlap
    stage_specific
-   DE_in_2_near_point
    heatmap12
    network
+   GRN.rst 
 

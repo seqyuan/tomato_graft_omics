@@ -10,5 +10,5 @@ QC and re-analysis
     :hidden:
     :maxdepth: 4
     
-    dataQC/Fig1_pca.ipynb
-    rmSampleDE/C24_C84_CD96_DESeq2.ipynb
+    notebooks/dataQC/Fig1_pca.ipynb
+    notebooks/rmSampleDE/C24_C84_CD96_DESeq2.ipynb

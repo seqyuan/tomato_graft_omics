@@ -10,5 +10,7 @@ High correlation sugar gene and TF corr network
     :hidden:
     :maxdepth: 4
     
-    network/sugar_networkX.ipynb
-    network/complex_network.ipynb
+    notebooks/network/sugar_networkX.ipynb
+    notebooks/network/complex_network.ipynb
+    notebooks/network/to_network.ipynb
+    notebooks/network/complex_network-219.ipynb

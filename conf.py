@@ -20,7 +20,7 @@
 # -- Project information -----------------------------------------------------
 
 project = "TomatoGraft"
-copyright = 'Zan Yuan'
+copyright = 'seqyuan'
 author = 'Zan Yuan, Yundan Duan'
 
 # The short X.Y version
@@ -44,7 +44,8 @@ extensions = [
     'sphinx.ext.viewcode',
     'sphinx.ext.githubpages',
     'nbsphinx',
-    'nbsphinx_link'
+    'nbsphinx_link',
+    "IPython.sphinxext.ipython_console_highlighting"
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -72,7 +73,7 @@ language = None
 exclude_patterns = ['Thumbs.db', '.DS_Store']
 
 # The name of the Pygments (syntax highlighting) style to use.
-pygments_style = None
+pygments_style = "default"
 
 
 # -- Options for HTML output -------------------------------------------------
