@@ -17,5 +17,5 @@ Code for analysis Duan yundan's tomato omincs data (RNA, metabolic, sugar) of gr
    stage_specific
    heatmap12
    network
-   GRN.rst 
+   GRN
 
